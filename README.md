@@ -55,7 +55,13 @@ cmake --build .
 ./NithwinNotepad
 
 ```
+---
+## 🙌 Credits
+Made with ❤️ by Nithwin V M
+Special thanks to the Qt and CMake communities for their powerful open-source tools and documentation.
 
+---
+---
 ## MIT License
 
 Copyright (c) 2025 Nithwin V M
@@ -77,3 +83,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+---
