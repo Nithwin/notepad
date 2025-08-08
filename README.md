@@ -12,8 +12,6 @@ A minimal yet elegant Notepad clone built with **C++**, **Qt Framework**, and **
 - 💾 Save and open `.txt` files
 - 🪟 Custom window styling using Qt stylesheets
 - 🖥️ Maximized window by default for better focus
-- 🧠 Automatically updates window title based on file
-- 📂 Navigation support for multiple file actions
 
 ---
 
