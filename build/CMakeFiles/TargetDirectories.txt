@@ -1,0 +1,9 @@
+C:/Users/vmnit/Desktop/notepad/build/CMakeFiles/notepad.dir
+C:/Users/vmnit/Desktop/notepad/build/CMakeFiles/edit_cache.dir
+C:/Users/vmnit/Desktop/notepad/build/CMakeFiles/rebuild_cache.dir
+C:/Users/vmnit/Desktop/notepad/build/CMakeFiles/list_install_components.dir
+C:/Users/vmnit/Desktop/notepad/build/CMakeFiles/install.dir
+C:/Users/vmnit/Desktop/notepad/build/CMakeFiles/install/local.dir
+C:/Users/vmnit/Desktop/notepad/build/CMakeFiles/install/strip.dir
+C:/Users/vmnit/Desktop/notepad/build/CMakeFiles/notepad_autogen_timestamp_deps.dir
+C:/Users/vmnit/Desktop/notepad/build/CMakeFiles/notepad_autogen.dir
